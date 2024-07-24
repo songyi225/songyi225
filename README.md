@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=DEC8C7&background=394335D2&width=1000&center=true&vCenter=true&lines=Welcome+To+Songyi's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=394335E1&background=39433500&center=true&vCenter=true&width=1000&lines=Welcome+To+Songyi's+Github)](https://git.io/typing-svg)
 
 
 [![sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyi225&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/songyi225/github-readme-stats)
